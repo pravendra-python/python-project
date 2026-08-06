@@ -10,6 +10,7 @@ welcome to my python projects repository.
 4. Expense Tracker
 5. Student Management System
 6. Library Management System
+7. Bank management system
 ##Skills
 -python
 -loops
