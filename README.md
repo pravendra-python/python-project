@@ -1,37 +1,50 @@
-# Python Learning Projects
-welcome to my python learning repository!
-I'm Pravendra Rajpoot ,learning Python through practical projects and continuosly improving my programming skills.
+# Python Projects Portfolio
 
-##python projects
-welcome to my python projects repository.
-##projects
-1. Calculator
-2. Password Generator
-3. To-Do List
-4. Expense Tracker
-5. Student Management System
-6. Library Management System
-7. Bank management system
-8. typing speed test
-9. quiz game
-10. file manager
+Hi, I'm Pravendra Rajpoot 👋
 
- 
-##Skills
--python
--loops
--Function
-- lists
-- Dictionaries
-- file Handling
-- object -oriented programming(oop)
-- tuples
--condition
-variable and data types
-##Goal
-My goal is to improve my python programming skills by building practical projects and learning continuoysly.
+I'm learning Python by building practical projects and automation scripts. This repository contains my Python projects, practice work, and progress.
 
-##progress 
-I regularly add new projects and improve existingprograms as I learn more python.
-if you find this repository useful , feel free to star it!
-**Made with PYTHON**
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| 🧮 Calculator | Basic calculator with arithmetic operations |
+| 🔐 Password Generator | Generates random secure passwords |
+| ✅ To-Do List | Simple task management application |
+| 💰 Expense Tracker | Tracks personal expenses |
+| 🎓 Student Management | Manages student records |
+| 📚 Library Management | Manages books and library records |
+| 🏦 Bank Management | Basic banking operations |
+| ⌨️ Typing Speed Test | Tests typing speed |
+| ❓ Quiz Game | Interactive Python quiz |
+| 📁 File Manager | Organizes and manages files |
+
+## 🛠️ Skills
+
+- Python
+- Loops
+- Functions
+- Lists & Dictionaries
+- Object-Oriented Programming
+- File Handling
+- Automation
+- CLI Applications
+- Git & GitHub
+
+## 🎯 Goal
+
+To build practical Python applications and automation tools while continuously improving my programming skills.
+
+## 📂 Repository
+
+All projects are organized in separate folders with their own source code and documentation.
+
+## 📫 Contact
+
+GitHub: @pravendra-python
+
+I'm open to learning opportunities, beginner-friendly freelance projects, and collaborations.
+
+---
+
+⭐ If you find these projects useful, feel free to explore the repository.
